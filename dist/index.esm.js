@@ -2103,7 +2103,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/goosedefi",
+                href: "https://t.me/ZCoreMiners",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2147,14 +2147,14 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/goosefinanceann",
+                href: "https://t.me/ZCoreCrypto",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/FinanceGoose",
+        href: "https://twitter.com/ZCoreCrypto",
     },
 ];
 var MENU_HEIGHT = 64;
