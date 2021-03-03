@@ -2,7 +2,7 @@ export const links = [
   {
     label: "Home",
     icon: "HomeIcon",
-    href: "/",
+    href: "https://finance.zcore.network",
   },
   {
     label: "Trade",
@@ -10,18 +10,18 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.pancakeswap.finance",
+        href: "https://exchange.zcore.network/#/swap",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.pancakeswap.finance/#/pool",
+        href: "https://exchange.zcore.network/#/pool",
       },
     ],
   },
   {
     label: "Farms",
     icon: "FarmIcon",
-    href: "/farms",
+    href: "https://finance.zcore.network/farms",
   },
   {
     label: "Pools",
@@ -102,12 +102,8 @@ export const links = [
         href: "https://github.com/goosedefi/",
       },
       {
-        label: "Docs",
-        href: "https://goosedefi.gitbook.io/goose-finance/",
-      },
-      {
-        label: "Blog",
-        href: "https://goosefinance.medium.com/",
+        label: 'Docs',
+        href: 'https://zcore-network.gitbook.io/zcore-finance/',
       },
     ],
   },
